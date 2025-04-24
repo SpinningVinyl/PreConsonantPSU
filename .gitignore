@@ -3,3 +3,6 @@ Gerbers/
 fp-info-cache
 *.zip
 ~*
+.~*
+*autosave*
+*auto_save*
