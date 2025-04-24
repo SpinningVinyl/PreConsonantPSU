@@ -4732,7 +4732,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 85.09 63.5 90)
+		(at 85.09 63.5 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4757,7 +4757,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical"
-			(at 85.09 65.278 90)
+			(at 85.09 61.722 90)
 			(effects
 				(font
 					(size 1.27 1.27)
