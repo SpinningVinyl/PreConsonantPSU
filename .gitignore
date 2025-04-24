@@ -1,5 +1,6 @@
 24V_psu-backups/
 Gerbers/
+Release/
 fp-info-cache
 *.zip
 ~*
