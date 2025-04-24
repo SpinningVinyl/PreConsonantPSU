@@ -8,7 +8,7 @@ This is a 24V PSU I designed for use with the [PreConsonant phono preamplifier](
 
 ### Technical specifications
 
- - Input voltage: less than 30V AC (with the specified components)
+ - Input voltage: between 21 and 30V AC (with the specified components)
  - Output voltage: approx. 24V DC
  - Load regulation: less than 1% at 100mA output current (component values have been calculated for output currents up to 500mA)
  - Ripple and noise: more than 60dB below the output level
